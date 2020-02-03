@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "313160677150",
+    "firebase_url": "https://helloerfe.firebaseio.com",
+    "project_id": "helloerfe",
+    "storage_bucket": "helloerfe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313160677150:android:54eab7aa0ca8f252cf3b0f",
+        "android_client_info": {
+          "package_name": "com.filenber.helloerfe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "313160677150-4um5lahu689slatgq6c0s0olp49vci66.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.filenber.helloerfe",
+            "certificate_hash": "7656b64f93ab724e282a53ecd7f5354da20b3072"
+          }
+        },
+        {
+          "client_id": "313160677150-u8vv9jlg84ooggh2cc0hcuru0d7ot3fn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAg74CMkF9vfXnToxxr58m_91rq298k-O4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "313160677150-u8vv9jlg84ooggh2cc0hcuru0d7ot3fn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

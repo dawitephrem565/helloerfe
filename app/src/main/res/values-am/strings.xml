@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">ሄሎ እርፍ</string>
+    <string name="menu_home">ዋና</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+    <string name="Login_btn_text">ቀጥል</string>
+    <string name="Operator_Region">ክልል</string>
+    <string name="Operator_zone">ዞን</string>
+    <string name="full_name">ሙሉ ስም</string>
+    <string name="Operator_woreda">ወረዳ</string>
+    <string name="Opreator_kebele">ቀበሌ</string>
+    <string name="Main_phone">ስልክ</string>
+    <string name="Operator_occupation">ስራ</string>
+    <string name="operator_number_of_site">ሄክታር ስፋት</string>
+    <string name="Operator_site_name">የቦታው ስም</string>
+    <string name="fill_form_error_add_operator">እባኮን በትክክል ያስገቡ</string>
+    <string name="add_operator_new_registration">አዲስ ምዝገባ</string>
+    <string name="add_operator_this_form_is">ይህ ገጽ አዲስ ለሆኑ ተመዝጋቢሆች መረጃዎች ሚመሰገኑበት ገጽ ነው</string>
+    <string name="optional_phone">አማራች ቁጥር</string>
+    <string name="Save">መዝግብ</string>
+    <string name="zone">ዞን</string>
+    <string name="woreda">ወረዳ</string>
+    <string name="date">ቀን</string>
+    <string name="accepted">ተቀብያለሁ</string>
+    <string name="decline">አልተቀበልኩም</string>
+    <string name="kebele">ቀበሌ</string>
+    <string name="unique_name">ልዩ ስም</string>
+    <string name="note">ማስታወሻ</string>
+    <string name="amharic">አማርኛ</string>
+    <string name="phone">ስልክ</string>
+    <string name="your_data_saved_successfully_and_new_operator_add_in_your_data">መረጃዎ በትክክል ተመዝግቡአል እባኮን መረጃዎን በትክክል ይመልከቱ</string>
+    <string name="success">ተመዝግቦል</string>
+    <string name="ok">እሺ</string>
+</resources>
+

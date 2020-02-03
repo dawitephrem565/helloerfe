@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">hello erf</string>
+    <string name="App_name">Hello Erf!</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+    <string name="Login_btn_text">Next</string>
+    <string name="Operator_Region">Region</string>
+    <string name="Operator_zone">Zone</string>
+    <string name="full_name">Full Name</string>
+    <string name="Operator_woreda">Woreda</string>
+    <string name="Opreator_kebele">Kebele</string>
+    <string name="Main_phone">Phone</string>
+    <string name="Operator_occupation">Occupation</string>
+    <string name="operator_number_of_site">number of site</string>
+    <string name="Operator_site_name">site_name</string>
+    <string name="fill_form_error_add_operator">Please Fill The Form Correctly</string>
+    <string name="add_operator_new_registration">New Registration</string>
+    <string name="add_operator_this_form_is">This form is</string>
+    <string name="optional_phone">Optional Phone</string>
+    <string name="Save">Save</string>
+    <string name="zone">Zone</string>
+    <string name="woreda">woreda</string>
+    <string name="date">Date</string>
+    <string name="accepted">Accepted</string>
+    <string name="decline">Decline</string>
+    <string name="kebele">Kebele</string>
+    <string name="unique_name">Unique Name</string>
+    <string name="note">Note</string>
+    <string name="amharic">Amharic</string>
+    <string name="phone">Phone</string>
+    <string name="your_data_saved_successfully_and_new_operator_add_in_your_data">Your Data Saved Successfully and new operator add in your data</string>
+    <string name="success">Success</string>
+    <string name="ok">Ok</string>
+</resources>

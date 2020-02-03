@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/add"
+            android:icon="@drawable/add"
+            android:title="Add Operator" />
+        <item
+            android:id="@+id/gps"
+            android:icon="@drawable/gps"
+            android:title="Gps" />
+        <item
+            android:id="@+id/acc"
+            android:icon="@drawable/checked"
+            android:title="Accepted" />
+        <item
+            android:id="@+id/dec"
+            android:icon="@drawable/declined"
+            android:title="Decline" />
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/lan"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Language" />
+
+        </menu>
+    </item>
+
+</menu>
